@@ -6,7 +6,7 @@
   },
   {
     "name": "jwtauth.app.jwtExpirationMs",
-    "type": "java.lang.Integer",
+    "type": "java.lang.Long",
     "description": "A description for 'jwtauth.app.jwtExpirationMs'"
   }
 ]}

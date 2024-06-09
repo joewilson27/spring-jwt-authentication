@@ -33,3 +33,5 @@ build/
 .vscode/
 
 read.md
+*.properties
+*.MD
