@@ -27,7 +27,7 @@ import com.jwtauth.app.payload.response.JwtResponse;
 import com.jwtauth.app.payload.response.MessageResponse;
 import com.jwtauth.app.repository.RoleRepository;
 import com.jwtauth.app.repository.UserRepository;
-import com.jwtauth.app.security.jwt.AuthEntryPointJwt;
+// import com.jwtauth.app.security.jwt.AuthEntryPointJwt;
 import com.jwtauth.app.security.jwt.JwtUtils;
 import com.jwtauth.app.security.services.UserDetailsImpl;
 
